@@ -1,1 +1,1 @@
-require version-modem=2018-08-02 23:14:42,8.8.30
+require version-modem=2017-12-22 18:47:46,7.0
